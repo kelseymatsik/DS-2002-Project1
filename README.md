@@ -1,5 +1,6 @@
 # DS-2002-Project1
 ## Data Science Systems Project 1 Midterm 
+Data Engineering project demonstrating the Extract, Transform, and Load (ETL) process with the sakila database 
 
 ### Repository Contents 
 Project1-Midterm.ipynb
