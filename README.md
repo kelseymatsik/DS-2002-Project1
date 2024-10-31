@@ -11,6 +11,6 @@ actor.json, address.json
 category.json, city.json
 * Files set as collections in MongoDB sakila database (collection names = city, category), and then read in
 
-sakila-schema.sql, sakila-data.sql, sakila-drop-tables.sql, sakila_date_dim.sql: 
+sakila-schema.sql, sakila-data.sql, sakila-drop-tables.sql, sakila_date_dim.sql 
 * Files used to create sakila schema (sakila-schema.sql), populate sakila tables (sakila-data.sql), drop tables read in locally or from MongoDB (sakila-drop-tables.sql), and create sakila date dimension table in new data warehouse (sakila_date_dim.sql)
   
